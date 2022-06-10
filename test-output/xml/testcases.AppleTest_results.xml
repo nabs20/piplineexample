@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="POMExample"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="14.873">
+    <properties></properties>
+
+
+
+            <testcase
+                name="click_on_bag_test"
+                time="12.423"
+                classname="testcases.AppleTest">
+            </testcase>
+            <testcase
+                name="login_into_account_with_wrong_password_test"
+                time="2.450"
+                classname="testcases.AppleTest">
+            </testcase>
+</testsuite>
