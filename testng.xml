@@ -3,8 +3,8 @@
 <suite name="suite">
     <test name="test suite" verbose="2">
         <classes>
-            <class name="testcases.AppleTest"/>
-            <class name="testcases.GoogleSearchTest"></class>
+           <!-- <class name="testcases.LoginTest"/>-->
+            <class name="testcases.GoogleSearchTest"/>
         </classes>
     </test>
 </suite>
